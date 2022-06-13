@@ -1,0 +1,1 @@
+The purpose of this repository is to practice adding a text file and merging them.
